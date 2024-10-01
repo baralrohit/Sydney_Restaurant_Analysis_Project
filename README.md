@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sydney Restaurant Success Prediction
 
@@ -84,3 +85,6 @@ The Docker image for this project is available on Docker Hub:
 
 
 
+=======
+# DSTA_ASSIGNMENT1
+>>>>>>> 910a6914ae230c930a7eef105fe3b629b6526207
