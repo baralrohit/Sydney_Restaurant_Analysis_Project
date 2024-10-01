@@ -4,7 +4,7 @@
 
 ## Author: 
 **Rohit Baral**  
-**University ID:u326870**
+**University ID:u3268702**
 ---
 
 This repository contains the source code (.ipynb files) and relevant resources for the Sydney Restaurant Success Prediction project, focusing on predicting restaurant ratings using various features. The project includes data preprocessing, feature engineering, regression models, and a Tableau dashboard for visualization. The goal is to develop and evaluate different machine learning models, compare their performance, and provide insights on restaurant success factors. Additionally, this project includes the deployment of models using Docker and version control via GitHub, along with a list of useful commands and corresponding links.
