@@ -1,0 +1,39 @@
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore virtual environment directories
+venv/
+env/
+*.env
+
+# Ignore hidden system files
+.DS_Store
+
+# Ignore configuration files for VS Code and other editors
+.vscode/
+*.code-workspace
+
+
+# Ignore build and deployment directories
+build/
+dist/
+*.egg-info/
+
+# Ignore Docker-related files that should not be included
+docker-compose.yml
+
+# Ignore PDF reports and other files generated
+*.pdf
+*.png
+*.jpg
+
+# Ignore your own README.md if it's not needed in the image
+README.md
